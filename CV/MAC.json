@@ -1,0 +1,231 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alejandro",
+      "surnames": "Hellín Gil",
+      "title": "Computer Science Engineer",
+      "description": "Cogí el vicio de la programación cuando a mis 14 años a mi hermano le compraron un Amstrad CPC 6128 y replicaba el código del libro para lograr crear mis primeros videojuegos. Desde entonces ha llovido y he visto evolucionar la tecnología, lo que me da una perspectiva bastante buena de cómo funcionan las cosas desde abajo. También me ha ayudado bastante mi pasión por la ilustración y todo lo que tiene que ver con la multimedia Aunque mi carrera profesional ha derivado más al mundo industrial, siempre me ha ayudado mi vena artística a ser bastante creativo y apasionado en todo lo que hago. ",
+      "avatar": {
+        "alt": "Yo2018.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/11/5311a923-1441-46dc-b5a8-a9d300ab3a38_yo2018.jpg"
+      },
+      "location": {
+        "notes": "Murcia - Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/ahellingil"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/11066571/alejandro-hellin"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ahellingil"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ahellingil"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Mis artistas favoritos",
+        "fact": "* Salvador Dalí\n* Pablo Picasso\n* M.C. Escher\n* Joan Miró"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Corel Draw",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Navision",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lotus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NAV",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SCADA",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/ahellingil"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/11066571/alejandro-hellin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Lambda",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Lotus",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
