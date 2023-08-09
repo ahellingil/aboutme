@@ -343,7 +343,7 @@
     "projects": [
       {
         "details": {
-          "name": "Juego Web de Simulación Empresarial - TRAMA",
+          "name": "Desarrollo Juego Web de Simulación Empresarial - TRAMA",
           "description": "Creador y desarrollador de un juego web de simulación empresarial para ENAE Business School y el periódico La Verdad de Murcia. Desarrollo con tecnologías PHP, HTML, JavaScript y persistencia en BBDD MySQL y Lotus Domino.",
           "URL": "https://www.enae.es/blog/trama-trade-and-marketing-online-game?_adin=02021864894#gref",
           "image": {
@@ -707,7 +707,7 @@
         "name": "Desarrollo Curso Multimedia interactivo sobre el Euro "
       },
       {
-        "name": "Juego Web de Simulación Empresarial - TRAMA"
+        "name": "Desarrollo Juego Web de Simulación Empresarial - TRAMA"
       }
     ]
   }
