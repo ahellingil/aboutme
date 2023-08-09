@@ -343,6 +343,43 @@
     "projects": [
       {
         "details": {
+          "name": "Curso Multimedia interactivo sobre el Euro ",
+          "description": "- Desarrollo en ToolBook y Adoble Flash MX de un curso multimedia interactivo para CajaMadrid y CajaMurcia.\n- Publicación de web interactiva sobre el euro para CajaMadrid y Fundación Universidad Empresa de Murcia. Desarrollada en HTML/JavaScript/CSS sobre persistencia en BBDD Lotus Domino.",
+          "URL": "https://www.fuem.es/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1999-05-01",
+            "competences": [
+              {
+                "name": "Flash",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Lotus",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2000-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Juego Web de Simulación Empresarial - TRAMA",
           "description": "Creador y desarrollador de un juego web de simulación empresarial para ENAE Business School y el periódico La Verdad de Murcia. Desarrollo con tecnologías PHP, HTML, JavaScript y persistencia en BBDD MySQL y Lotus Domino.",
           "URL": "https://www.enae.es/blog/trama-trade-and-marketing-online-game?_adin=02021864894#gref",
@@ -662,6 +699,9 @@
     "desiredJobDescription": "Soy una persona a la que siempre le gusta probar nuevas tecnologías y nuevos retos, por lo que me gustaría formar parte de un equipo en el que se apueste por ello y se aporte valor real al usuario objetivo.  ",
     "goodPractices": "* Tengo habilidad para realizar documentación de proyectos y para redactar código limpio y bien documentado. \n* También tengo habilidad de negociación en contrataciones de nueva tecnología. \n* Intento siempre aplicar buenas prácticas, como Design Thinking en proyectos de innovación, metodologías ágiles Scrum y Kanban para gestionar los proyectos, TDD, principios SOLID, Patrones de diseño y tecnología GIT en la parte de desarrollo.\n* En la carrera tuve un profesor al que le presenté mi práctica de un editor de texto y me lo destrozó poniendo la mano en el teclado. Desde entonces, intento siempre construir el software desde la perspectiva del usuario final que lo va a usar, poniéndome en su lugar.",
     "projects": [
+      {
+        "name": "Curso Multimedia interactivo sobre el Euro "
+      },
       {
         "name": "Juego Web de Simulación Empresarial - TRAMA"
       }
