@@ -157,9 +157,10 @@
         "organization": {
           "name": "Conservas El Raal",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/c94fea1d-f1e8-4d8f-a0f6-ffff2712b8e3_logo_conservaselraal.jpeg",
-            "alt": "Logo_ConservasElRaal.jpeg"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/620c4aaa-9ce8-49a6-8f9d-a090bad3bf31_logo_conservaselraal.jpg",
+            "alt": "Logo_ConservasElRaal_Fondo-negro_72ppp.jpg"
+          },
+          "URL": "https://www.conservaselraal.com/"
         },
         "roles": [
           {
