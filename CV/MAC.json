@@ -32,6 +32,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "Know Systems S.L."
+        },
+        "roles": [
+          {
+            "name": "Consultor/Programador",
+            "startDate": "2004-10-01",
+            "finishDate": "2006-08-01",
+            "challenges": [
+              {
+                "description": "Consultor en proyectos de Automatización de Sistemas de Gestión de Almacenes (SGA), de Procesos Productivos y Mantenimiento Preventivo. Programación en VB .NET, SQL Server, Crystal Reports y Lotus Notes/Domino."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Lotus",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Global Solution Soft"
         },
         "roles": [
