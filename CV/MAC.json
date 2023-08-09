@@ -32,6 +32,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "Global Solution Soft"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2004-01-01",
+            "finishDate": "2004-10-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo de integraciones del Software de Hostelería Touch Express y adaptación del mismo a SQL Server. Consolidaciones de datos mediante integraciones XML, integraciones RFC con SAP y otros sistemas de clientes. \n- Desarrollo de informes Crystal Reports."
+              }
+            ],
+            "competences": [
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "ENAE Business School / Fundación Universidad Empresa de Murcia ",
           "URL": "https://www.enae.es/"
         },
