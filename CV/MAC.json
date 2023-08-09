@@ -316,6 +316,10 @@
                 "type": "technology"
               },
               {
+                "name": "Corel Draw",
+                "type": "technology"
+              },
+              {
                 "name": "Flash",
                 "type": "technology"
               },
@@ -703,6 +707,10 @@
     "mainStackTechs": [
       {
         "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
         "type": "technology"
       },
       {
