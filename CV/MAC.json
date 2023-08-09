@@ -32,6 +32,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Conservas El Raal"
+        },
+        "roles": [
+          {
+            "name": "IT Manager",
+            "startDate": "2006-08-01",
+            "finishDate": "2007-04-01",
+            "challenges": [
+              {
+                "description": "- Mantenimiento de los sistemas informáticos: NAVISION, SQL Server, Windows.\n- Desarrollos en NAVISION, VB/VB.NET y SQL Server. \n- Contratación de nuevas tecnologías y sistemas.\n- Implantación BPM AuraPortal."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "NAV",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Know Systems S.L."
         },
         "roles": [
