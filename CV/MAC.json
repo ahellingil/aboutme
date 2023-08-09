@@ -357,6 +357,12 @@
       },
       {
         "skill": {
+          "name": "ADA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
           "type": "technology"
         }
