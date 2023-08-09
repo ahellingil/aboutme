@@ -28,6 +28,54 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ENAE Business School / Fundación Universidad Empresa de Murcia ",
+          "URL": "https://www.enae.es/"
+        },
+        "roles": [
+          {
+            "name": "Programador de Aplicaciones Multimedia y páginas Web",
+            "startDate": "1998-02-01",
+            "finishDate": "2003-12-01",
+            "challenges": [
+              {
+                "description": "- Desarrollador de aplicaciones Web (HTML/JS/CSS/PHP) y presentaciones Multimedia interactivas (ToolBook y Adobe Flash). \n- Desarrollador en Lotus Domino.\n- Administrador de sistemas Lotus Domino, Windows y SQL Server.\n- Profesor en diferentes cursos y masters de la Escuela de Negocios de Murcia."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Flash",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Lotus",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
