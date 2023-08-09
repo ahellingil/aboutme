@@ -290,6 +290,10 @@
       {
         "organization": {
           "name": "ENAE Business School / Fundación Universidad Empresa de Murcia ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/48023145-81f2-4d8f-8063-1fcb447ba5ad_logo_enae.png",
+            "alt": "Logo_ENAE.png"
+          },
           "URL": "https://www.enae.es/"
         },
         "roles": [
