@@ -343,43 +343,6 @@
     "projects": [
       {
         "details": {
-          "name": "Curso Multimedia interactivo sobre el Euro ",
-          "description": "- Desarrollo en ToolBook y Adoble Flash MX de un curso multimedia interactivo para CajaMadrid y CajaMurcia.\n- Publicación de web interactiva sobre el euro para CajaMadrid y Fundación Universidad Empresa de Murcia. Desarrollada en HTML/JavaScript/CSS sobre persistencia en BBDD Lotus Domino.",
-          "URL": "https://www.fuem.es/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "1999-05-01",
-            "competences": [
-              {
-                "name": "Flash",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Lotus",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Basic",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2000-12-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Juego Web de Simulación Empresarial - TRAMA",
           "description": "Creador y desarrollador de un juego web de simulación empresarial para ENAE Business School y el periódico La Verdad de Murcia. Desarrollo con tecnologías PHP, HTML, JavaScript y persistencia en BBDD MySQL y Lotus Domino.",
           "URL": "https://www.enae.es/blog/trama-trade-and-marketing-online-game?_adin=02021864894#gref",
@@ -416,6 +379,47 @@
               }
             ],
             "finishDate": "2011-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Curso Multimedia interactivo sobre el Euro ",
+          "description": "- Desarrollo en ToolBook y Adoble Flash MX de un curso multimedia interactivo para CajaMadrid y CajaMurcia.\n- Publicación de web interactiva sobre el euro para CajaMadrid y Fundación Universidad Empresa de Murcia. Desarrollada en HTML/JavaScript/CSS sobre persistencia en BBDD Lotus Domino.",
+          "URL": "https://www.fuem.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/1663d159-f5bf-40c0-aa79-6ee54c7b5f5c_cursoeleuro_cajamadr.png",
+            "alt": "CursoElEuro_CajaMadrid.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1999-05-01",
+            "competences": [
+              {
+                "name": "Flash",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Lotus",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2000-12-01"
           }
         ]
       }
