@@ -203,7 +203,11 @@
       },
       {
         "organization": {
-          "name": "Know Systems S.L."
+          "name": "Know Systems S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/7a27c3e4-e552-4154-adb1-def9a7dd1a0f_logo_knowsystems.jpeg",
+            "alt": "Logo_KnowSystems.jpeg"
+          }
         },
         "roles": [
           {
