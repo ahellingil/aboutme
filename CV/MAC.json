@@ -254,7 +254,11 @@
       },
       {
         "organization": {
-          "name": "Global Solution Soft"
+          "name": "Global Solution Soft",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/30543607-7a3a-4b65-bbc1-1304e3e6f594_logo_globalsolutions.jpeg",
+            "alt": "Logo_GlobalSolutionsSoft.jpeg"
+          }
         },
         "roles": [
           {
