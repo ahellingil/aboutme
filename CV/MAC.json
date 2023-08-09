@@ -155,7 +155,11 @@
       },
       {
         "organization": {
-          "name": "Conservas El Raal"
+          "name": "Conservas El Raal",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/c94fea1d-f1e8-4d8f-a0f6-ffff2712b8e3_logo_conservaselraal.jpeg",
+            "alt": "Logo_ConservasElRaal.jpeg"
+          }
         },
         "roles": [
           {
