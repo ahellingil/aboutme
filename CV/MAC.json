@@ -369,6 +369,12 @@
       },
       {
         "skill": {
+          "name": "Alamofire",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
