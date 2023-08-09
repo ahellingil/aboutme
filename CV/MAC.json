@@ -33,6 +33,10 @@
       {
         "organization": {
           "name": "LINASA - Industria Jabonera Lina S.A.U.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/316ef37b-568b-43a5-9574-ccee10c2946b_logo_linasa.jpeg",
+            "alt": "Logo_Linasa.jpeg"
+          },
           "URL": "http://www.linasa.es"
         },
         "roles": [
