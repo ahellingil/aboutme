@@ -339,6 +339,21 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Ilustraciones del libro \"Tengo una idea ¿Y ahora... qué?\"",
+          "description": "Ilustrador del libro junto al autor del mismo Manuel Robles Miras.",
+          "URL": "https://www.diegomarin.com/9788484256403-tengo-una-idea-y-ahora-que.html",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/272dea7c-8f4f-4906-b54c-69783b7e4627_libro_tengounaidea.png",
+            "alt": "Libro_TengoUnaIdea.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2008-01-01"
+      }
     ]
   },
   "knowledge": {
