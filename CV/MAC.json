@@ -340,6 +340,49 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "Juego Web de Simulación Empresarial - TRAMA",
+          "description": "Creador y desarrollador de un juego web de simulación empresarial para ENAE Business School y el periódico La Verdad de Murcia. Desarrollo con tecnologías PHP, HTML, JavaScript y persistencia en BBDD MySQL y Lotus Domino.",
+          "URL": "https://www.enae.es/blog/trama-trade-and-marketing-online-game?_adin=02021864894#gref",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/71283ff2-0b74-4ce9-bc24-cbf63a3d299d_trama-trade-marketin.jpg",
+            "alt": "trama-trade-marketing-online-game1.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2006-01-01",
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Lotus",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2011-01-01"
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -617,6 +660,11 @@
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Soy una persona a la que siempre le gusta probar nuevas tecnologías y nuevos retos, por lo que me gustaría formar parte de un equipo en el que se apueste por ello y se aporte valor real al usuario objetivo.  ",
-    "goodPractices": "* Tengo habilidad para realizar documentación de proyectos y para redactar código limpio y bien documentado. \n* También tengo habilidad de negociación en contrataciones de nueva tecnología. \n* Intento siempre aplicar buenas prácticas, como Design Thinking en proyectos de innovación, metodologías ágiles Scrum y Kanban para gestionar los proyectos, TDD, principios SOLID, Patrones de diseño y tecnología GIT en la parte de desarrollo.\n* En la carrera tuve un profesor al que le presenté mi práctica de un editor de texto y me lo destrozó poniendo la mano en el teclado. Desde entonces, intento siempre construir el software desde la perspectiva del usuario final que lo va a usar, poniéndome en su lugar."
+    "goodPractices": "* Tengo habilidad para realizar documentación de proyectos y para redactar código limpio y bien documentado. \n* También tengo habilidad de negociación en contrataciones de nueva tecnología. \n* Intento siempre aplicar buenas prácticas, como Design Thinking en proyectos de innovación, metodologías ágiles Scrum y Kanban para gestionar los proyectos, TDD, principios SOLID, Patrones de diseño y tecnología GIT en la parte de desarrollo.\n* En la carrera tuve un profesor al que le presenté mi práctica de un editor de texto y me lo destrozó poniendo la mano en el teclado. Desde entonces, intento siempre construir el software desde la perspectiva del usuario final que lo va a usar, poniéndome en su lugar.",
+    "projects": [
+      {
+        "name": "Juego Web de Simulación Empresarial - TRAMA"
+      }
+    ]
   }
 }
