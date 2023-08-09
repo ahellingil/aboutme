@@ -32,6 +32,125 @@
     "jobs": [
       {
         "organization": {
+          "name": "LINASA - Industria Jabonera Lina S.A.U.",
+          "URL": "http://www.linasa.es"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador y Gestor de Proyectos",
+            "startDate": "2007-01-01",
+            "challenges": [
+              {
+                "description": "- Desarrollador en NAVISION/365 BC (tanto lenguaje C/AL como AL), Visual Studio .NET (VB y C#), SQL Server, webMethods BPMS, sistemas DCS y SCADAs, tecnología OPC UA.\n- Definición y Gestión de Nuevos Proyectos.\n- Contratación de nueva tecnología.\n- Mantenimiento de los sistemas informáticos. "
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Navision",
+                "type": "technology"
+              },
+              {
+                "name": "NAV",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SCADA",
+                "type": "technology"
+              },
+              {
+                "name": "SOAP",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Conservas El Raal"
         },
         "roles": [
