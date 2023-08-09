@@ -708,6 +708,10 @@
       {
         "name": "Microsoft Navision",
         "type": "technology"
+      },
+      {
+        "name": "SQLServer",
+        "type": "technology"
       }
     ],
     "desiredJobDescription": "Soy una persona a la que siempre le gusta probar nuevas tecnologías y nuevos retos, por lo que me gustaría formar parte de un equipo en el que se apueste por ello y se aporte valor real al usuario objetivo.  ",
