@@ -384,7 +384,7 @@
       },
       {
         "details": {
-          "name": "Curso Multimedia interactivo sobre el Euro ",
+          "name": "Desarrollo Curso Multimedia interactivo sobre el Euro ",
           "description": "- Desarrollo en ToolBook y Adoble Flash MX de un curso multimedia interactivo para CajaMadrid y CajaMurcia.\n- Publicación de web interactiva sobre el euro para CajaMadrid y Fundación Universidad Empresa de Murcia. Desarrollada en HTML/JavaScript/CSS sobre persistencia en BBDD Lotus Domino.",
           "URL": "https://www.fuem.es/",
           "image": {
@@ -704,7 +704,7 @@
     "goodPractices": "* Tengo habilidad para realizar documentación de proyectos y para redactar código limpio y bien documentado. \n* También tengo habilidad de negociación en contrataciones de nueva tecnología. \n* Intento siempre aplicar buenas prácticas, como Design Thinking en proyectos de innovación, metodologías ágiles Scrum y Kanban para gestionar los proyectos, TDD, principios SOLID, Patrones de diseño y tecnología GIT en la parte de desarrollo.\n* En la carrera tuve un profesor al que le presenté mi práctica de un editor de texto y me lo destrozó poniendo la mano en el teclado. Desde entonces, intento siempre construir el software desde la perspectiva del usuario final que lo va a usar, poniéndome en su lugar, cuidando los detalles y mostrando errores controlados y legibles al usuario.",
     "projects": [
       {
-        "name": "Curso Multimedia interactivo sobre el Euro "
+        "name": "Desarrollo Curso Multimedia interactivo sobre el Euro "
       },
       {
         "name": "Juego Web de Simulación Empresarial - TRAMA"
