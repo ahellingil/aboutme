@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -25,6 +25,24 @@
       {
         "topic": "Mis aficiones",
         "fact": "* Mis hijos y mi familia\n* El dibujo y la ilustración digital\n* La lectura\n* Simplemente andar (senderismo se llama ahora)"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ahellingil"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ahellingil"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ahellingil"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/11066571/alejandro-hellin"
       }
     ]
   },
@@ -62,6 +80,10 @@
                 "type": "technology"
               },
               {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
                 "name": "Bitbucket",
                 "type": "technology"
               },
@@ -87,10 +109,6 @@
               },
               {
                 "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
                 "type": "technology"
               },
               {
@@ -448,6 +466,7 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       }
     ],
@@ -633,18 +652,16 @@
       ],
       "contactMails": [
         "ahellingil@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "646527453",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
           "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "AWS Lambda",
           "type": "technology"
         },
         {
@@ -661,10 +678,6 @@
         },
         {
           "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "Lambda",
           "type": "technology"
         },
         {
