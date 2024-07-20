@@ -50,6 +50,38 @@
     "jobs": [
       {
         "organization": {
+          "name": "Newgarden",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/20/c2f09b0c-dc20-4570-ae90-285c05becd42_new-garden-logo.png",
+            "alt": "new-garden-logo.png"
+          },
+          "URL": "https://newgarden.es/"
+        },
+        "roles": [
+          {
+            "name": "IT Manager",
+            "startDate": "2023-09-01",
+            "finishDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "Gestión y planificación del área de IT en proyectos varios: nuevos desarrollos en Microsoft Business Central, extensiones AL, .NET, ciberseguridad e integración con tiendas online."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Navision",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "LINASA - Industria Jabonera Lina S.A.U.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/09/316ef37b-568b-43a5-9574-ccee10c2946b_logo_linasa.jpeg",
