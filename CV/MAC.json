@@ -120,7 +120,15 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
                 "name": "Microsoft Navision",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
                 "type": "technology"
               }
             ]
