@@ -50,6 +50,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "Destilerías Muñoz Gálvez S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/20/e9c5e508-c217-458d-b000-22c9403c3acd_dmg-mugasa-destileri.png",
+            "alt": "DMG-MUGASA-DESTILERIAS-MUÑOZ-GALVEZ.png"
+          },
+          "URL": "https://dmg.es/"
+        },
+        "roles": [
+          {
+            "name": "IT Analyst",
+            "startDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "Análisis e implantación de proyectos de IT en la empresa."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "SAP BI",
+                "type": "technology"
+              },
+              {
+                "name": "SAP HANA",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Newgarden",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/20/c2f09b0c-dc20-4570-ae90-285c05becd42_new-garden-logo.png",
